@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-======
+
 I am currently a PhD student at Department of Molecular Engineering & Sciences, University of Washington, working with Prof. [Scott Dunham](https://dunham.ece.uw.edu/).
 
 
@@ -17,11 +17,11 @@ I am currently a PhD student at Department of Molecular Engineering & Sciences, 
 I completed my bachelor in Chemistry in July 2018 from [Department of Chemistry](https://chem.nankai.edu.cn/), Nankai University.
 
 ## Research Interests
-======
+
 Material/Device Simulation and Machine Learning - Technology computer-aided design (TCAD), First principles computational modeling, and Machine Learning.
 
 ## News
-======
+
 [July 2022] Opened my academic homepage!
 
 

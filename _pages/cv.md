@@ -15,7 +15,7 @@ Education
   Molecular Engineering & Sciences Institute, <br/>
   PhD in Molecular Engineering, 2024(expected)<br/>
 * **University of Washington** <br/>
-  Molecular Engineering & Sciences Institute, <br/>
+  Department of Applied Mathematics, <br/>
   Master of Science in Applied and Computational Mathematics, 2024(expected)<br/>
 * **University of Washington** <br/>
   Molecular Engineering & Sciences Institute, <br/>

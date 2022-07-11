@@ -18,7 +18,7 @@ I completed my bachelor in Chemistry in July 2018 from [Department of Chemistry]
 
 ## Research Interests
 
-Material/Device Simulation and Machine Learning - Technology computer-aided design (TCAD), First principles computational modeling, and Machine Learning.
+Material/Device Simulation and Machine Learning - Technology Computer-Aided Design (TCAD), Density Functional Theory (DFT), Monte Carlo Method, Molecular Dynamics and Machine Learning.
 
 ## News
 

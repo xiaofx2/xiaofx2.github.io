@@ -12,7 +12,7 @@ redirect_from:
 Point defects directly impact solar cell device performance by limiting the carrier lifetime. In this work, density functional theory calculations are firstly used to determine the formation energy and diffusion energy barriers of dominant defects in <u>Cu(In,Ga)Se<sub>2</sub>. Next, continuum reaction-diffusion models are developed to analyze the redistribution of defects during manufacturing processes. We estimate defect capture cross sections using a first-principles based approach. These cross sections are combined with our calculated defect profiles and trap energy levels to parameterize a Shockley-Read-Hall (SRH) recombination model, which we implement into a device simulator to predict carrier lifetimes and device performance. In that way, a predictive Technology Computer Aided Design (TCAD) model is built to predict and optimize the performance of <u>Cu(In,Ga)Se<sub>2</sub> solar cells
 
 <p align="center">
-<img src="https://github.com/xiaofx2/xiaofx2.github.io/tree/master/images/Web_CIGS.png" alt="drawing" width="600" height="200"/>
+<img src="https://xiaofx2.github.io/images/Web_CIGS.png" alt="drawing" width="600" height="400"/>
 </p>
 
 # <u>AI-Driven Design of Semiconductors</u> <font size=4>[<a href="https://www.sciencedirect.com/science/article/pii/S266638992200023X/pdfft?md5=c9655359558a9616280b5776b304aaf0&pid=1-s2.0-S266638992200023X-main.pdf">Patterns 2022</a>]</font>

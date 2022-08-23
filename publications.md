@@ -2,4 +2,4 @@
 + **Xiang, X.**, Sommer, D. E., Gehrke, A., and Dunham, S. T. 2021. *Coupled process and device modeling of Cu(In,Ga)Se<sub>2</sub> solar cells.* IEEE 48th Photovoltaic Specialists Conference (PVSC). pp. 1707-1711. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9519020)] 
 + Su, J., **Xiang, X.**, Lv, R., Li, H., Fu, X., Yang, B., and Liu, X. 2018. *Rapid and high-selectivity detection of rifampicin based on upconversion luminescence core-shell structure composites.* Journal of Solid State Chemistry, 266, 9-15. [[pdf](https://www.sciencedirect.com/science/article/pii/S0022459618301828/pdfft?md5=3222c1216b0deb8ed402dd46d936a9e4&pid=1-s2.0-S0022459618301828-main.pdf)] 
 + **Xiang, X.**, Sommer, D. E., Gehrke, A., and Dunham, S. T. *Coupled process/device modeling and point defect engineering of Cu(In,Ga)Se<sub>2</sub> solar cells.* (In Preperation)
-+ Gehrke, A., Sommer, D. E., **Xiang, X.** and Dunham, S. T. *Atomistic models of In and Ga Diffusion in Cu(In,Ga)Se<sub>2</sub>. *(In Preperation)
++ Gehrke, A., Sommer, D. E., **Xiang, X.** and Dunham, S. T. *Atomistic models of In and Ga Diffusion in Cu(In,Ga)Se<sub>2</sub>.* (In Preperation)

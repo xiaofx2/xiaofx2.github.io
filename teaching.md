@@ -7,4 +7,12 @@ redirect_from:
   - /teaching
 ---
 
-## Teaching
+Teaching Experience
+======
+**University of Washington, Department of Electrical & Computer Engineering** <br/>
+* EE 486: Fundamentals of Integrated Circuit Technology (Spring 2022)  <br/>
+Role: Grader/Partial Teaching Assistant
+
+**University of Washington, Molecular Engineering & Sciences Institute** <br/>
+* MOLENG 510: Molecular Engineering Principles (Winter 2020) <br/>
+Role: Lecturer in one of the classes/Editor of [textbook chapters](https://xiaofx2.github.io/files/Mol_All_Chapters.pdf)

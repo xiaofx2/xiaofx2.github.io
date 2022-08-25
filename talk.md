@@ -15,7 +15,6 @@ redirect_from:
 June 20-25, 2021 <br /> 
 Xiaofeng Xiang, David E. Sommer, Aaron Gehrke and Scott T. Dunham<br /> 
 </span>
-
 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9519020)]
 [[Slides](https://xiaofx2.github.io/files/IEEE_PVSC_Xiaofeng.pptx)]
 [[Videos](https://xiaofx2.github.io/files/IEEE_PVSC_Xiaofeng.mp4)]

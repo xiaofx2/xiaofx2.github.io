@@ -15,4 +15,4 @@ Role: Grader/Partial Teaching Assistant
 
 **University of Washington, Molecular Engineering & Sciences Institute** <br/>
 * MOLENG 510: Molecular Engineering Principles (Winter 2020) <br/>
-Role: Lecturer in one of the classes/Co-Author of [textbook chapters](https://xiaofx2.github.io/files/Mol_All_Chapters.pdf)
+Role: Presenter in one of the lectures/Co-Author of [textbook chapters](https://xiaofx2.github.io/files/Mol_All_Chapters.pdf)

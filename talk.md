@@ -10,6 +10,7 @@ redirect_from:
 # Talks
 ## Coupled Process/Device Modeling and Point Defect Engineering of Cu(In,Ga)Se<sub>2</sub> Solar Cells
 2022 Orcas International Conference on Energy Conversion & Storage
+
 <span style="color:grey;font-weight:400;font-size:15px"> 
 September 8-10, 2022 <br /> 
 Xiaofeng Xiang, David E. Sommer, Aaron Gehrke and Scott T. Dunham<br /> 
@@ -18,6 +19,7 @@ Xiaofeng Xiang, David E. Sommer, Aaron Gehrke and Scott T. Dunham<br />
 
 ## Carrier Capture Processes in CuIn<sub>1-x</sub>Ga<sub>x</sub>Se<sub>2</sub> and CdSe<sub>1-x</sub>Te<sub>x</sub> Solar Cells Materials
 2022 MEM-C Annual All-Hands Workshop
+
 <span style="color:grey;font-weight:400;font-size:15px"> 
 September 6-8, 2022 <br /> 
 Xiaofeng Xiang and Scott T. Dunham<br /> 

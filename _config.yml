@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Xiaofeng Xiang's Homepage"
 title_separator          : "-"
 name                     : &name "Xiaofeng Xiang"
 description              : &description "personal description"
